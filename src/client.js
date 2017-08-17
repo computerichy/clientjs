@@ -683,8 +683,8 @@
       return canvas.toDataURL();
     },
 
-    getWebglPrint: function() {
-
+    getWebGlPrint: function() {
+ 
 
 
 
