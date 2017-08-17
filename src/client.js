@@ -827,7 +827,7 @@ var sha256 = (function(){
 })();
 
 
-var wegbl_hash = webgl();
+var webgl_hash = webgl();   
 console.log(webgl_hash);
 
 return webgl_hash;
