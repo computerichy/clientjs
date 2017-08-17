@@ -39,7 +39,7 @@
   },
   "main": "dist/client.min.js",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-closure-compiler": "^0.4.0",
     "jasmine-core": "~2.4.1",
     "karma": "^0.13.19",
